@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="    SUP MOVIES    " group-title="SPAIN",    SUP MOVIES    
-http://4057359642f0c2ed35b5d8425057f1e6.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27147?h=f9b5760e4a8595ff43f35de474e9a3fdbdef6201&z=83.52.82.65&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 1" group-title="SPAIN",HBO Max 1
 http://4057359642f0c2ed35b5d8425057f1e6.spa.iscaja.me:25461/VQT3BetyBy/112913219122/26649?h=f9b5760e4a8595ff43f35de474e9a3fdbdef6201&z=83.52.82.65&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 2" group-title="SPAIN",HBO Max 2
