@@ -87,10 +87,14 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3820?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL SUR HD" group-title="SPAIN",CANAL SUR HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25851?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL SUR 2" group-title="SPAIN",CANAL SUR 2
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL SUR 2 HD" group-title="SPAIN",CANAL SUR 2 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25850?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS" group-title="SPAIN",24 HORAS
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/380?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS FULL HD" group-title="SPAIN",24 HORAS FULL HD
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27213?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="Malaga 24h Noticias" group-title="SPAIN",Malaga 24h Noticias
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27177?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="    4k    " group-title="SPAIN",    4k    
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27154?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+  0 4K" group-title="SPAIN",M+  0 4K
@@ -109,7 +113,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26276?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name=" EUROSPORT1 4K" group-title="SPAIN", EUROSPORT1 4K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26281?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="  VAMOS 4K" group-title="SPAIN",  VAMOS 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS 4K" group-title="SPAIN",M+  VAMOS 4K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26267?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA 4K" group-title="SPAIN",LA SEXTA 4K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26155?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -187,12 +191,14 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/426?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espa  ol FULL HD" group-title="SPAIN",M+ Cine Espa  ol FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3847?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Fest" group-title="SPAIN",M+ Fest
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Fest HD" group-title="SPAIN",M+ Fest HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26664?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ Fest FULL HD" group-title="SPAIN",M+ Fest FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27192?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ CL  SICOS HD" group-title="SPAIN",M+ CL  SICOS HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS HD" group-title="SPAIN",M+ CLASICOS HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26665?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS FULL HD" group-title="SPAIN",M+ CLASICOS FULL HD
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27214?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOOD HD" group-title="SPAIN",HOLLYWOOD HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/354?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOOD FULL HD" group-title="SPAIN",HOLLYWOOD FULL HD
@@ -259,7 +265,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27150?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="La Resistencia" group-title="SPAIN",La Resistencia
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27187?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VERY BRITISH" group-title="SPAIN",M+ VERY BRITISH
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VACACIONES" group-title="SPAIN",M+ VACACIONES
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27188?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS  V HD" group-title="SPAIN",M+ ELLAS  V HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27159?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -269,7 +275,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/405?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL FULL HD" group-title="SPAIN",COMEDYCENTRAL FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3833?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" group-title="SPAIN",BE MAD
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD HD" group-title="SPAIN",BE MAD HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/385?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="BE MAD FULL HD" group-title="SPAIN",BE MAD FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3824?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -303,74 +309,50 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3816?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="    Deportes    " group-title="SPAIN",    Deportes    
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27151?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial " group-title="SPAIN",Gol Mundial 
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27202?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial HD" group-title="SPAIN",Gol Mundial HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27203?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial HD+" group-title="SPAIN",Gol Mundial HD+
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27204?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial 4K" group-title="SPAIN",Gol Mundial 4K
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27205?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial 2K" group-title="SPAIN",Gol Mundial 2K
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27206?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial FULL HD" group-title="SPAIN",Gol Mundial FULL HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27207?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial 2 HD" group-title="SPAIN",Gol Mundial 2 HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27208?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial 2 FULL HD" group-title="SPAIN",Gol Mundial 2 FULL HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27209?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Gol Mundial 2 4K" group-title="SPAIN",Gol Mundial 2 4K
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27210?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLigaHD" group-title="SPAIN",DAZN LaLigaHD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD" group-title="SPAIN",DAZN LaLiga HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/27160?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLigaHD+" group-title="SPAIN",DAZN LaLigaHD+
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD+" group-title="SPAIN",DAZN LaLiga HD+
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/27173?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA SD" group-title="SPAIN",DAZN LALIGA SD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga SD" group-title="SPAIN",DAZN LaLiga SD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27170?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga" group-title="SPAIN",DAZN LaLiga
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/27174?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLigaFHD" group-title="SPAIN",DAZN LaLigaFHD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga FULL HD" group-title="SPAIN",DAZN LaLiga FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27175?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLigaHD FULL HD" group-title="SPAIN",DAZN LaLigaHD FULL HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/27162?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga 2K" group-title="SPAIN",DAZN LaLiga 2K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27169?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga 4K" group-title="SPAIN",DAZN LaLiga 4K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27168?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga2 HD" group-title="SPAIN",DAZN LaLiga2 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27161?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga2 HD FULL HD" group-title="SPAIN",DAZN LaLiga2 HD FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga2 FULL HD" group-title="SPAIN",DAZN LaLiga2 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27163?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga HD" group-title="SPAIN",M+ LaLiga HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="SPAIN",M+ LaLigaTVHD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26046?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga HD+" group-title="SPAIN",M+ LaLiga HD+
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="SPAIN",M+ LaLigaTVHD+
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26248?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="LaLiga HD" group-title="SPAIN",LaLiga HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD++" group-title="SPAIN",M+ LaLigaTVHD++
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26246?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="LALIGATV BAR HD" group-title="SPAIN",LALIGATV BAR HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/357?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="beIN SPORTS Espana" group-title="SPAIN",beIN SPORTS Espana
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26321?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga FHD" group-title="SPAIN",M+ LaLiga FHD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26042?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga +" group-title="SPAIN",M+ LaLiga +
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26247?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga" group-title="SPAIN",M+ LaLiga
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/435?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="Bein Laliga  beIN Sport" group-title="SPAIN",Bein Laliga  beIN Sport
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/386?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2K" group-title="SPAIN",M+ LaLiga 2K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" group-title="SPAIN",M+ LaLigaTV
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/435?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV +" group-title="SPAIN",M+ LaLigaTV +
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26247?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2K" group-title="SPAIN",M+ LaLigaTV 2K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26141?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 4K" group-title="SPAIN",M+ LaLiga 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" group-title="SPAIN",M+ LaLigaTV 4K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26142?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga FULL HD" group-title="SPAIN",M+ LaLiga FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV FULL HD" group-title="SPAIN",M+ LaLigaTV FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/3849?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="LigaSmartBankHD" group-title="SPAIN",LigaSmartBankHD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27164?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="LigaSmartBankHD FULL HD" group-title="SPAIN",LigaSmartBankHD FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27166?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA SMARTBANK SD" group-title="SPAIN",LALIGA SMARTBANK SD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27171?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga SmartBank 2" group-title="SPAIN",Liga SmartBank 2
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27194?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga SmartBank 2 FULL HD" group-title="SPAIN",Liga SmartBank 2 FULL HD
@@ -379,35 +361,33 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27195?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="Liga SmartBank 3 FULL HD" group-title="SPAIN",Liga SmartBank 3 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27197?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2 HD" group-title="SPAIN",M+ LaLiga 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" group-title="SPAIN",M+ LaLigaTV 2 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26048?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2 FHD" group-title="SPAIN",M+ LaLiga 2 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 FULL HD" group-title="SPAIN",M+ LaLigaTV 2 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26045?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 3 HD" group-title="SPAIN",M+ LaLiga 3 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 3 HD" group-title="SPAIN",M+ LaLigaTV 3 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/24927?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 3 FHD" group-title="SPAIN",M+ LaLiga 3 FHD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 3 FULL HD" group-title="SPAIN",M+ LaLigaTV 3 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26044?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 2  SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 2  SOLO EVENTOS 
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/388?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 4  SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 4  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4  SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 4  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/390?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 5   SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 5   SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 5   SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 5   SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/24926?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 6  SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 6  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 6  SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 6  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/24925?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 7  SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 7  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 7  SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 7  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/393?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 8  SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 8  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 8  SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 8  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/394?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 9  SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 9  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 9  SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 9  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/24924?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLiga 10  SOLO EVENTOS " group-title="SPAIN",M+ LaLiga 10  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 10  SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 10  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/24928?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="SPAIN",M+ LCAMPEONES HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/445?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="SPAIN",M+ LCAMPEONES HD+
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26315?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Lcampeones 4K" group-title="SPAIN",M+ Lcampeones 4K
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" group-title="SPAIN",M+ LCAMPEONES 4K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26140?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" group-title="SPAIN",M+ LCAMPEONES FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26078?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -415,7 +395,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26316?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" group-title="SPAIN",M+ LCAMPEONES SD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26317?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES" group-title="SPAIN",M+ LCAMPEONES
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" group-title="SPAIN",M+ LCAMPEONES +
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26318?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES BAR" group-title="SPAIN",M+ LCAMPEONES BAR
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27211?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -423,9 +403,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/439?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 2 FULL HD  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26080?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name=" M+ LCAMPEONES 2 SD  SOLO EVENTOS " group-title="SPAIN", M+ LCAMPEONES 2 SD  SOLO EVENTOS 
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26320?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3   SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 3   SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 3 HD  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/440?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 3 FULL HD  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26081?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -455,7 +433,9 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26713?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 12 FULL HD   SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 12 FULL HD   SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26714?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS HD" group-title="SPAIN",M+  VAMOS HD
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 13 FULL HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 13 FULL HD  SOLO EVENTOS 
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27215?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOSHD" group-title="SPAIN",M+  VAMOSHD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/379?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS FULL HD" group-title="SPAIN",M+  VAMOS FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3819?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -465,13 +445,13 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/26626?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 FULL HD" group-title="SPAIN",DAZN F1 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26627?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 ESP" group-title="SPAIN",DAZN 1 ESP
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" group-title="SPAIN",DAZN 1 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/24923?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 FULL HD" group-title="SPAIN",DAZN 1 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26623?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 4K" group-title="SPAIN",DAZN 1 4K
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26621?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 ESP" group-title="SPAIN",DAZN 2 ESP
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" group-title="SPAIN",DAZN 2 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.lig.iscaja.me:25461/rEXhhmJAya/122628371329/24922?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 FULL HD" group-title="SPAIN",DAZN 2 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26624?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -481,14 +461,10 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26628?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 FULL HD" group-title="SPAIN",DAZN 3 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26630?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 ESP" group-title="SPAIN",DAZN 3 ESP
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26163?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" group-title="SPAIN",DAZN 4 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26629?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 FULL HD" group-title="SPAIN",DAZN 4 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26631?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 ESP" group-title="SPAIN",DAZN 4 ESP
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26164?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 5 ESP" group-title="SPAIN",DAZN 5 ESP
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26171?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="UFC HD" group-title="SPAIN",UFC HD
@@ -527,19 +503,17 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/384?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="BARCA TV FULL HD" group-title="SPAIN",BARCA TV FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3823?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="R  MADRID TV HD" group-title="SPAIN",R  MADRID TV HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV HD" group-title="SPAIN",Realmadrid TV HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/455?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ FORMULA1 HD" group-title="SPAIN",M+ FORMULA1 HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/365?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 FULL HD" group-title="SPAIN",DAZN F1 FULL HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3806?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV FULL HD" group-title="SPAIN",Realmadrid TV FULL HD
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25867?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" group-title="SPAIN",M+ GOLF HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/361?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF FULL HD" group-title="SPAIN",M+ GOLF FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3802?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="GOL" group-title="SPAIN",GOL
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY" group-title="SPAIN",GOL PLAY
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/418?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="GOL FULL HD" group-title="SPAIN",GOL FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY FULL HD" group-title="SPAIN",GOL PLAY FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3843?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="    Cultura    " group-title="SPAIN",    Cultura    
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27152?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
@@ -611,6 +585,8 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3822?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks HD" group-title="SPAIN",DreamWorks HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26625?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks FULL HD" group-title="SPAIN",DreamWorks FULL HD
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27216?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX NEWS" group-title="SPAIN",FOX NEWS
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/417?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="SOMOS" group-title="SPAIN",SOMOS
@@ -621,16 +597,16 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/404?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="MTV ESPANA" group-title="SPAIN",MTV ESPANA
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/447?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="VIDA RTV" group-title="SPAIN",VIDA RTV
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25856?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="    TDT    " group-title="SPAIN",    TDT    
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27157?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDO" group-title="SPAIN",MUNDO
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27176?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="A3SERIES" group-title="SPAIN",A3SERIES
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26343?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="A3 Series Internacional" group-title="SPAIN",A3 Series Internacional
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26719?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="TEN" group-title="SPAIN",TEN
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25869?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV HD" group-title="SPAIN",Realmadrid TV HD
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25867?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT NETWORK" group-title="SPAIN",PARAMOUNT NETWORK
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25871?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="DMAX" group-title="SPAIN",DMAX
@@ -1073,17 +1049,9 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26604?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="24 7 The Mandalorian" group-title="SPAIN",24 7 The Mandalorian
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26605?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="VIDA RTV" group-title="SPAIN",VIDA RTV
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/25856?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 1 HD" group-title="SPAIN",CINE+ 1 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26344?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 2 HD" group-title="SPAIN",CINE+ 2 HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26345?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="MUNDO" group-title="SPAIN",MUNDO
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27176?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="Malaga 24h Noticias" group-title="SPAIN",Malaga 24h Noticias
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27177?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="XTRM" group-title="SPAIN",XTRM
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27178?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="CRISTO" group-title="SPAIN",CRISTO
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27212?h=3aaaf5ec65c43b805ca0b728c6bf88fc1ab55711&z=83.52.82.65&i=17550
