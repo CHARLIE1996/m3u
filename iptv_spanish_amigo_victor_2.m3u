@@ -163,6 +163,8 @@ http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854
 http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/364?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ ESTRENOS FULL HD" group-title="SPAIN",M+ ESTRENOS FULL HD
 http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/3805?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 1" group-title="SPAIN",M+ Cine Del Mundo 4K 1
+http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27221?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ ESTRENOS 2 HD" group-title="SPAIN",M+ ESTRENOS 2 HD
 http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/26663?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ ESTRENOS 2 FULL HD" group-title="SPAIN",M+ ESTRENOS 2 FULL HD
@@ -383,14 +385,6 @@ http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854
 http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/24924?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 10  SOLO EVENTOS " group-title="SPAIN",M+ LaLigaTV 10  SOLO EVENTOS 
 http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/24928?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ SUPERCOPA HD" group-title="SPAIN",M+ SUPERCOPA HD
-http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27217?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ SUPERCOPA HD+" group-title="SPAIN",M+ SUPERCOPA HD+
-http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27218?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ SUPERCOPA FULL HD" group-title="SPAIN",M+ SUPERCOPA FULL HD
-http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27220?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ SUPERCOPA SD" group-title="SPAIN",M+ SUPERCOPA SD
-http://77cabd16b3f25c9b28640c801d2732f3.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27219?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="SPAIN",M+ LCAMPEONES HD
 http://77cabd16b3f25c9b28640c801d2732f3.lig.iscaja.me:25461/QMGTqUzQfn/615115854146/445?h=d4ecb412eb07a4ca1bbc9b16a20fb439975d2c1e&z=83.52.82.65&i=17741
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="SPAIN",M+ LCAMPEONES HD+
