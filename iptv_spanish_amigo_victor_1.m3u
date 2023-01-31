@@ -179,8 +179,10 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27198?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCI  N 2 FULL HD" group-title="SPAIN",M+ ACCI  N 2 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27199?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix" group-title="SPAIN",M+ Netflix
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 1" group-title="SPAIN",M+ Netflix 1
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27223?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 2" group-title="SPAIN",M+ Netflix 2
+http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27225?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA HD" group-title="SPAIN",M+ COMEDIA HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/363?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA FULL HD" group-title="SPAIN",M+ COMEDIA FULL HD
@@ -193,7 +195,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27200?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 FULL HD" group-title="SPAIN",M+ DRAMA 2 FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27201?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espa  ol" group-title="SPAIN",M+ Cine Espa  ol
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Cine Espa  ol" group-title="SPAIN",M+Cine Espa  ol
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/426?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espa  ol FULL HD" group-title="SPAIN",M+ Cine Espa  ol FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3847?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
@@ -205,7 +207,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/26665?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS FULL HD" group-title="SPAIN",M+ CLASICOS FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27214?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOOD HD" group-title="SPAIN",HOLLYWOOD HD
+#EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOODHD" group-title="SPAIN",HOLLYWOODHD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/354?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOOD FULL HD" group-title="SPAIN",HOLLYWOOD FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3796?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
@@ -271,13 +273,13 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27150?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="La Resistencia" group-title="SPAIN",La Resistencia
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27187?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ VACACIONES" group-title="SPAIN",M+ VACACIONES
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ U  Tarantino" group-title="SPAIN",M+ U  Tarantino
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27188?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS  V HD" group-title="SPAIN",M+ ELLAS  V HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27159?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS FULL HD" group-title="SPAIN",M+ ELLAS FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/27189?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL HD" group-title="SPAIN",COMEDYCENTRAL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRALHD" group-title="SPAIN",COMEDYCENTRALHD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/405?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL FULL HD" group-title="SPAIN",COMEDYCENTRAL FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3833?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
@@ -487,10 +489,8 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/359?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES FULL HD" group-title="SPAIN",M+ DEPORTES FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3800?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES1HD  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES1HD  SOLO EVENTOS 
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES2HD  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/427?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES2  SOLO EVENTOS 
-http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/428?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES3  SOLO EVENTOS 
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/429?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES4  SOLO EVENTOS 
@@ -583,7 +583,7 @@ http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/451?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="NICK JR FULL HD" group-title="SPAIN",NICK JR FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3852?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL PANDA" group-title="SPAIN",CANAL PANDA
+#EXTINF:-1 tvg-id="ext" tvg-name="ENFAMILIA" group-title="SPAIN",ENFAMILIA
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/401?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
 #EXTINF:-1 tvg-id="ext" tvg-name="CANAL PANDA FULL HD" group-title="SPAIN",CANAL PANDA FULL HD
 http://b5c2c3a188e6d08e10b9dc591dcd3a96.spa.iscaja.me:25461/rEXhhmJAya/122628371329/3830?h=1f2e29d380c0d4d6ed2aa5074d21bc20f79fb258&z=83.53.90.83&i=17550
