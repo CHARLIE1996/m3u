@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="    SUP MOVIES    " group-title="SPAIN",    SUP MOVIES    
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27147?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 1" group-title="SPAIN",SkyShowtime 1
+http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27227?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 2" group-title="SPAIN",SkyShowtime 2
+http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27228?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 1" group-title="SPAIN",HBO Max 1
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/26649?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Max 2" group-title="SPAIN",HBO Max 2
@@ -331,6 +335,8 @@ http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27169?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga 4K" group-title="SPAIN",DAZN LaLiga 4K
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27168?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLigaHD 235" group-title="SPAIN",DAZN LaLigaHD 235
+http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27226?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga2 HD" group-title="SPAIN",DAZN LaLiga2 HD
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/27161?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga2 FULL HD" group-title="SPAIN",DAZN LaLiga2 FULL HD
@@ -585,7 +591,7 @@ http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/3852?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="ENFAMILIA" group-title="SPAIN",ENFAMILIA
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/401?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
-#EXTINF:-1 tvg-id="ext" tvg-name="CANAL PANDA FULL HD" group-title="SPAIN",CANAL PANDA FULL HD
+#EXTINF:-1 tvg-id="ext" tvg-name="ENFAMILIA FULL HD" group-title="SPAIN",ENFAMILIA FULL HD
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/3830?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
 #EXTINF:-1 tvg-id="ext" tvg-name="BABY TV" group-title="SPAIN",BABY TV
 http://e1b17a0feb84295b91958733be3a1858.spa.iscaja.me:25461/VQT3BetyBy/112913219122/383?h=a6fcc4dc5474f6e7ef97a2168053e90d2e74709c&z=83.54.153.222&i=17549
