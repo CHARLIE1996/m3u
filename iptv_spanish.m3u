@@ -469,8 +469,6 @@ http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/26629?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FULL HD" group-title="Deportes",DAZN 4 FULL HD
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/26631?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ESP" group-title="Deportes",DAZN 5 ESP
-http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/26171?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="UFC HD" group-title="Deportes",UFC HD
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27172?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" group-title="Deportes",EUROSPORT 1 HD
@@ -513,6 +511,10 @@ http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/361?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FULL HD" group-title="Deportes",M+ GOLF FULL HD
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/3802?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" group-title="Deportes",M+ GOLF 2 HD
+http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27230?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FULL HD" group-title="Deportes",M+ GOLF 2 FULL HD
+http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27231?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY" group-title="Deportes",GOL PLAY
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/418?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="GOL PLAY FULL HD" group-title="Deportes",GOL PLAY FULL HD
@@ -585,8 +587,6 @@ http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/26625?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks FULL HD" group-title="Ninos",DreamWorks FULL HD
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/27216?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" group-title="Ninos",FOX NEWS
-http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/417?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="SOMOS" group-title="Ninos",SOMOS
 http://e0a35ff54129d1ff52a9cf42a149d6cb.spa.iscaja.me:25461/QMGTqUzQfn/615115854146/26342?h=dea6e2f993aa2b78fc70af33d2978924407d67f3&z=83.54.153.222&i=17741
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" group-title="Ninos",MEZZO LIVE HD
